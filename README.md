@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sandun94x</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Data Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun94x&label=Profile%20views&color=0e75b6&style=flat" alt="sandun94x" /> </p>
 
