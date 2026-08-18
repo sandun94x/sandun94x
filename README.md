@@ -9,9 +9,8 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building **lifeOS** (personal productivity system) and **grn_agent** (AI-powered agent)
-- 🤖 I love shipping intelligent products — AI agents, bots, full-stack apps, the works
-- ⚡ From crypto bots to HR platforms to support systems — I build across the stack
+- 🤖 I love shipping intelligent products — AI agents, bots, and full-stack web apps
+- ⚡ From automation tools to HR platforms — I build across the stack
 - 🛠️ TypeScript is my daily driver; Python is my automation weapon of choice
 - 💬 Ask me about AI agents, automation, or turning an idea into a real product
 
@@ -31,5 +30,4 @@
 <p align="center">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sandun94x&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sandun94x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=sandun94x&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
