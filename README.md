@@ -7,6 +7,16 @@
 
 <br/>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="195" src="https://github-readme-stats.shion.dev/api?username=sandun94x&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  &nbsp;
+  <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sandun94x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+---
+
 ### 🧠 About Me
 
 - 🤖 I love shipping intelligent products — AI agents, bots, and full-stack web apps
@@ -27,7 +37,4 @@
 
 ---
 
-<p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sandun94x&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sandun94x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
+[![](https://komarev.com/ghpvc/?username=sandun94x&icon=0&color=0)](https://visitcount.itsvg.in)
