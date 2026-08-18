@@ -1,29 +1,35 @@
+<h1 align="center">Hey, I'm Sandun 👋</h1>
+
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sandun94x&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sandun94x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sandun94x&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-<!--   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
+  <b>Full-Stack Developer &nbsp;·&nbsp; AI Builder &nbsp;·&nbsp; Automation Nerd</b><br/>
+  Founder @ <strong>Nacura Tech</strong> — building tools that work while you sleep
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=sandun94x&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=sandun94x&repo=pixel-weather">
-</p> -->
+<br/>
 
+### 🧠 About Me
 
-<!--
-**sandun94x/sandun94x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building **lifeOS** (personal productivity system) and **grn_agent** (AI-powered agent)
+- 🤖 I love shipping intelligent products — AI agents, bots, full-stack apps, the works
+- ⚡ From crypto bots to HR platforms to support systems — I build across the stack
+- 🛠️ TypeScript is my daily driver; Python is my automation weapon of choice
+- 💬 Ask me about AI agents, automation, or turning an idea into a real product
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+---
+
+<p align="center">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sandun94x&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sandun94x&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=sandun94x&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
